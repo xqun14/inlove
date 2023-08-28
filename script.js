@@ -1,4 +1,3 @@
-
 const countdownElement = document.getElementById("countdown");
 const daysElement = document.getElementById("days");
 const targetDate = new Date("2023-07-18T00:00:00Z");
